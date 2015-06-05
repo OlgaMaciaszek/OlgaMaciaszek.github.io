@@ -2,6 +2,8 @@
 
 :hp-tags: Codearte, DevConf, DevConf.cz, Conference, OSS, Kubernetes, Docker, OpenShift
 
+_coauthored by Marcin Zajączkowski (https://solidsoft.wordpress.com)_
+
 In February, a few of Codearte team members visited the DevConf.cz 2015 conference. Not surprisingly for an event organised by RedHat, infrastructure-related topics were among the main points of interest. One of the topics most spoken about was definitely the Docker project. Issues related to both securing the Docker containers and creating super-privileged containers were covered in two interesting presentations by Dan Walsh. Apart from this, Kubernetes - a new cloud-based orchestration tool for Docker containers that allows for scheduling activities and managing workload- was spoken about a lot and a workshop on its practical use was held by Michael P. McGrath. 
 
 The revolutionary Kubernetes project has also strongly affected OpenShift and the resulting change of approach was discussed during the presentation done by Michal Fojtik, Jakub Hadvig and Marek Jelen. The central idea behind OpenShift v3, which differs significantly from the earlier versions, is to have user applications running in Docker containers that will be orchestrated and managed by Kubernetes. To easily manage the entire solution you can use the integration platform that is Fabric8. Its practical demonstration was prepared and presented by Marek Schmidt.
